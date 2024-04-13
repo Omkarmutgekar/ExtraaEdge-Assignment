@@ -1,0 +1,14 @@
+.card-footer{
+    display:flex;
+    align-items:center;
+    justify-content:center;
+    gap:5rem;
+}
+
+.icon{
+    cursor:pointer;
+}
+
+.modal{
+    position:absolute;
+}
